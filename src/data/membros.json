@@ -1,0 +1,59 @@
+{
+  "proximoId": 7,
+  "membros": [
+    {
+      "id": 1,
+      "nome": "Alice Almeida",
+      "endereco": "Rua das Laranjeiras, 100",
+      "telefone": "(11) 91234-5678",
+      "numeroMatricula": "MEM2025001",
+      "dataRegistro": "2025-03-01T09:00:00.000Z",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Carvalho",
+      "endereco": "Avenida Central, 200",
+      "telefone": "(21) 99876-5432",
+      "numeroMatricula": "MEM2025002",
+      "dataRegistro": "2025-03-05T14:30:00.000Z",
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "nome": "Carla Mendes",
+      "endereco": "Travessa do Sol, 45",
+      "telefone": "(31) 98765-4321",
+      "numeroMatricula": "MEM2025003",
+      "dataRegistro": "2025-03-10T11:20:00.000Z",
+      "ativo": false
+    },
+    {
+      "id": 4,
+      "nome": "Daniel Souza",
+      "endereco": "Rua Nova, 78",
+      "telefone": "(41) 91234-0000",
+      "numeroMatricula": "MEM2025004",
+      "dataRegistro": "2025-04-01T08:45:00.000Z",
+      "ativo": true
+    },
+    {
+      "id": 5,
+      "nome": "Elena Costa",
+      "endereco": "Alameda das Flores, 12",
+      "telefone": "(51) 99999-1111",
+      "numeroMatricula": "MEM2025005",
+      "dataRegistro": "2025-04-10T15:10:00.000Z",
+      "ativo": true
+    },
+    {
+      "id": 6,
+      "nome": "Felipe Nascimento",
+      "endereco": "Rua do Limoeiro, 7",
+      "telefone": "(71) 98888-2222",
+      "numeroMatricula": "MEM2025006",
+      "dataRegistro": "2025-04-18T12:00:00.000Z",
+      "ativo": true
+    }
+  ]
+}

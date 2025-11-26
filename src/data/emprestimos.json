@@ -1,0 +1,13 @@
+{
+  "proximoId": 3,
+  "emprestimos": [
+    {
+      "id": 2,
+      "membroId": 6,
+      "livroIsbn": "9788525421675",
+      "dataEmprestimo": "2025-11-26T21:45:35.432Z",
+      "dataDevolucao": "2025-11-26T21:46:03.253Z",
+      "devolvido": true
+    }
+  ]
+}
