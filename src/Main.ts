@@ -5,12 +5,7 @@ import { GerenciadorEmprestimos } from './services/GerenciadorEmprestimos';
 import { Livro } from './classes/Livro';
 import { Membro } from './classes/Membro';
 
-/**
- * BibliotecaCLI
- * - Menu da aplicação (entrada/saída)
- * - Encaminha chamadas para os gerenciadores / não faz regras de negócio
- * - No vídeo: abrir essa classe e mostrar o menu principal
- */
+
 class BibliotecaCLI {
     private gerenciadorLivros: GerenciadorLivros;
     private gerenciadorMembros: GerenciadorMembros;

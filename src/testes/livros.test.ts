@@ -1,7 +1,7 @@
 import { Livro } from '../classes/Livro';
 import { GerenciadorLivros } from '../services/GerenciadorLivros';
 
-// Testes simplificados: foco no comportamento essencial
+
 jest.mock('fs');
 
 describe('GerenciadorLivros (simplificado)', () => {

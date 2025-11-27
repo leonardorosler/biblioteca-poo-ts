@@ -11,11 +11,11 @@
     "titulo": "The Road",
     "autor": "Cormac McCarthy",
     "anoPublicacao": 2006,
-    "disponivel": true
+    "disponivel": false
   },
   {
     "isbn": "9780261103573",
-    "titulo": "The Hobbit",
+    "titulo": "The Hobit",
     "autor": "J.R.R. Tolkien",
     "anoPublicacao": 1937,
     "disponivel": false
