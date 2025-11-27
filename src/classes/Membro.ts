@@ -58,7 +58,7 @@ export class Membro extends Pessoa {
     public toJSON(): any {
         return {
             id: this.id,
-            nome: this.nome,
+            nome: this.nome, 
             endereco: this.endereco,
             telefone: this.telefone,
             numeroMatricula: this._numeroMatricula,

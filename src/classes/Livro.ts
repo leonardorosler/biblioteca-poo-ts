@@ -36,7 +36,6 @@ export class Livro {
     }
 
     // setters (validação simples)
-    
     public set titulo(titulo: string) {
         if (titulo.length < 1) {
             throw new Error("Título não pode ser vazio");

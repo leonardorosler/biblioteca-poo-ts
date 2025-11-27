@@ -1,6 +1,5 @@
 export interface DAO<T, ID = number> {
     
-    
     //Adiciona/Cria um novo item no repositório. 
     criar(item: T): void;
 
