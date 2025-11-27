@@ -47,9 +47,9 @@ describe('GerenciadorEmprestimos (simplificado)', () => {
     test('não permite empréstimo para membro inativo', () => {
         const m = new Membro(1, 'J', 'R', '111', 'M1');
         const l = new Livro('Z9', 'Title', 'Author', 2002);
-        m.desativar();
         gm.criarMembro(m);
         gl.criarLivro(l);
+        m.desativar();
         expect(() => ge.criarEmprestimo(1, 'Z9')).toThrow();
     });
 });
